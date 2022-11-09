@@ -22,5 +22,5 @@ int sum_n_nos(int n){
   return (n);
   }
 void output(int n, int sum){
-  printf("te sum od %d natural number is %d,n,sum");
+  printf("the sum of %d natural number is %d",n,sum);
   }
